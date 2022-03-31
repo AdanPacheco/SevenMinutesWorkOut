@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/drawable/circular_progress_bar.xml" value="0.2155" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/drawable/circular_progress_bar_gray.xml" value="0.2155" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/drawable/circular_ripple_bg.xml" value="0.2155" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/drawable/item_circular_color_accent.xml" value="0.2155" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.2155" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/drawable/item_circular_color_accent_border.xml" value="0.2155" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.2155" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/drawable/item_circular_completed.xml" value="0.2155" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/drawable/radio_group_tab_background.xml" value="0.2155" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/drawable/radiogroup_tab_background.xml" value="0.2155" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/drawable/states_selector.xml" value="0.2155" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/drawable/states_text_selector.xml" value="0.2155" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/drawable/tab_selector.xml" value="0.1" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/layout/activity_bmi.xml" value="0.25" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/layout/activity_excercise.xml" value="0.371875" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/layout/activity_exercise.xml" value="0.371875" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/layout/activity_finish.xml" value="0.33" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/layout/activity_history.xml" value="0.371875" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/layout/custom_dialog_back_pressed.xml" value="0.371875" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/layout/item_exercise_status.xml" value="0.5" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/layout/item_history_date.xml" value="0.371875" />
+        <entry key="..\:/Users/NameNotFound/AndroidStudioProjects/SevenMinutesWorkOut/app/src/main/res/layout/tab_selector.xml" value="0.5678571428571428" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
